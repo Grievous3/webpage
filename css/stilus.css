@@ -1,11 +1,14 @@
-#inter {font-family: Arial, Helvetica, sans-serif;
+#szoveg {font-family: Arial, Helvetica, sans-serif;
 font-size: 18px;
 font-style: inherit;
 background-color: darkgrey;
-text-align: justify}
-img {width: 300px;
-box-shadow: 8px 8px 8px grey;
-margin: 3%}
+text-align: justify;
+margin-left: 10px; margin-top: 10px;margin-right: 10px; margin-bottom: 10px;
+padding-left: 8px;padding-top: 8px; padding-right: 8px; padding: bottom 8px;;}
 #tabla {font-family: Arial, Helvetica, sans-serif;
 align-content: center;
 background-color: khaki;}
+.helyez {font-weight: bold;}
+li {display: inline ;}
+#ball {float: right; margin-top: 2px;margin-right: 0px;margin-left: 10px; margin-bottom: 1px; width: 260px;}
+body {background-color: lightyellow;
