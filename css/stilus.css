@@ -11,4 +11,6 @@ background-color: khaki;}
 .helyez {font-weight: bold;}
 li {display: inline ;}
 #ball {float: right; margin-top: 2px;margin-right: 0px;margin-left: 10px; margin-bottom: 1px; width: 260px;}
-body {background-color: lightyellow;
+body {background-image: url(/img/background.jpg); background-size: cover;}
+#foci {width: auto; height: auto;}
+#cimlap {width: 20%; height: 20%;}
